@@ -1,0 +1,245 @@
+[
+    {
+      "id": 1,
+      "author":"Apj abdulkalam",
+      "country":"India",
+      "price":500,
+      "image":"https://3.imimg.com/data3/VM/WT/MY-12313319/kalam-500x500.jpeg",
+      "language":"English",
+      "title":"Wings of Fire",
+      "year":1999 
+    },
+    {
+      "id": 2,
+      "author": "Erica James",
+      "country": "Italy",
+      "price":600,
+      "image": "https://www.ericajames.com/wp-content/uploads/2013/12/Summer-at-the-Lake-2021.jpg",
+      "language": "Italian",
+      "link": "https://www.ericajames.com/portfolio/summer-at-the-lake/",
+      "pages": 445,
+      "title": "Summer At The Lake",
+      "year": 2013
+    },
+    {
+      "id": 3,
+      "author": "Delia Owens",
+      "country": "America",
+      "price":450,
+      "image": "https://novelvisits.com/wp-content/uploads/2018/08/Where-the-Crawdads-Sing-by-Delia-Owens.jpg",
+      "language": "English",
+      "link": "https://the-bibliofile.com/where-the-crawdads-sing/",
+      "pages": 384,
+      "title": "Where the Crawdads Sing",
+      "year": -1700
+    },
+    {
+      "id": 4,
+      "author": "Michael Ende",
+      "country": "Germany",
+      "price":800,
+      "image": "https://m.media-amazon.com/images/I/51NQ7NBYXAL._SX332_BO1,204,203,200_.jpg",
+      "language": "German",
+      "link": "https://www.supersummary.com/the-neverending-story/summary/",
+      "pages": 176,
+      "title": "The Unending Story",
+      "year": 1979
+    },
+    {
+      "id": 5,
+      "author": "Unknown",
+      "country": "India/Iran/Iraq/Egypt/Tajikistan",
+      "price":250,
+      "image": "https://m.media-amazon.com/images/I/81rdTlS5hPL.jpg",
+      "language": "Arabic",
+      "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights\n",
+      "pages": 288,
+      "title": "One Thousand and One Nights",
+      "year": 1200
+    },
+    {
+      "id": 6,
+      "author": "Jane Austen",
+      "country": "United Kingdom",
+      "price":470,
+      "image": "https://kbimages1-a.akamaihd.net/ad12ce73-aa34-473e-9a53-77a50360c239/1200/1200/False/pride-prejudice-13.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
+      "pages": 226,
+      "title": "Pride and Prejudice",
+      "year": 1813
+    },
+   
+    {
+      "id": 7,
+      "author": "Andrzej Maleszka",
+      "country": "Poland",
+      "price":900,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1448533641i/27980053.jpg",
+      "language": "Polish",
+      "link": "https://www.goodreads.com/en/book/show/27980053",
+      "pages": 480,
+      "title": "Świat Ogromnych",
+      "year": 2015
+    },
+    
+    {
+      "id": 8,
+      "author": "Emily Bront\u00eb",
+      "country": "United Kingdom",
+      "price":200,
+      "image": "https://m.media-amazon.com/images/I/512BafFGGQL.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Wuthering_Heights\n",
+      "pages": 342,
+      "title": "Wuthering Heights",
+      "year": 1847
+    },
+    
+    {
+      "id": 9,
+      "author": "Geoffrey Chaucer",
+      "country": "England",
+      "price":900,
+      "image": "https://m.media-amazon.com/images/I/51EzygqUVOL.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/The_Canterbury_Tales\n",
+      "pages": 544,
+      "title": "The Canterbury Tales",
+      "year": 1450
+    },
+    
+    {
+      "id": 10,
+      "author": "Joseph Conrad",
+      "country": "United Kingdom",
+      "price":400,
+      "image": "https://m.media-amazon.com/images/I/51Y3vANZquL.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Nostromo\n",
+      "pages": 320,
+      "title": "Nostromo",
+      "year": 1904
+    },
+    {
+      "id": 11,
+      "author": "Charles Dickens",
+      "country": "United Kingdom",
+      "price":500,
+      "image": "https://kbimages1-a.akamaihd.net/e1543c21-16bc-4a6d-a1be-657ea07904a7/1200/1200/False/great-expectations-wisehouse-classics-with-the-original-illustrations-by-john-mclenan-1860.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Great_Expectations\n",
+      "pages": 194,
+      "title": "Great Expectations",
+      "year": 1861
+    },
+    {
+      "id": 12,
+      "author": "Shelby Van Pelt",
+      "country": "America",
+      "price":140,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651600548i/58733693.jpg",
+      "language": "English",
+      "link": "https://www.kirkusreviews.com/book-reviews/shelby-van-pelt/remarkably-bright-creatures/#:~:text=A%20debut%20novel%20about%20a,is%20a%20charming%2C%20warmhearted%20read.&text=A%20lonely%20woman%20discovers%20that,best%20friend%20is%20an%20octopus.",
+      "pages": 368,
+      "title": "Remarkably Bright Creatures",
+      "year": 2022
+    },
+    {
+      "id": 13,
+      "author": "TJ Klune",
+      "country": "Germany",
+      "price":700,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1569514209i/45047384.jpg",
+      "language": "English",
+      "link": "https://the-bibliofile.com/the-house-in-the-cerulean-sea/",
+      "pages": 400,
+      "title": "The House in the Cerulean Sea",
+      "year": 2020
+    },
+    {
+      "id": 14,
+      "author": "Fyodor Dostoevsky",
+      "country": "Russia",
+      "price":340,
+      "image": "https://kbimages1-a.akamaihd.net/c8f66724-16c7-4e30-ab42-2e205435eb20/1200/1200/False/crime-and-punishment-by-fyodor-dostoyevsky.jpg",
+      "language": "Russian",
+      "link": "https://en.wikipedia.org/wiki/Crime_and_Punishment\n",
+      "pages": 551,
+      "title": "Crime and Punishment",
+      "year": 1866
+    },
+    {
+      "id": 15,
+      "author": "Fyodor Dostoevsky",
+      "country": "Russia",
+      "price":760,
+      "image": "https://kbimages1-a.akamaihd.net/822bb814-70a7-4d36-8f73-9fb1d9230632/353/569/90/False/the-idiot-30.jpg",
+      "language": "Russian",
+      "link": "https://en.wikipedia.org/wiki/The_Idiot\n",
+      "pages": 656,
+      "title": "The Idiot",
+      "year": 1869
+    },
+    {
+      "id": 16,
+      "author": "Fyodor Dostoevsky",
+      "country": "Russia",
+      "price":830,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtZBm3cnrF1B26QDfaaX-2NCIwZ2n-7L6WWA&usqp=CAU",
+      "language": "Russian",
+      "link": "https://en.wikipedia.org/wiki/Demons_(Dostoyevsky_novel)\n",
+      "pages": 768,
+      "title": "The Possessed",
+      "year": 1872
+    },
+    {
+      "id": 17,
+      "author": "Fyodor Dostoevsky",
+      "country": "Russia",
+      "price":830,
+      "image": "https://m.media-amazon.com/images/I/51Bz-aHxQXL.jpg",
+      "language": "Russian",
+      "link": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov\n",
+      "pages": 824,
+      "title": "The Brothers Karamazov",
+      "year": 1880
+    },
+    
+    {
+      "id": 18,
+      "author": "Ralph Ellison",
+      "country": "United States",
+      "price":510,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Invisible_Man_%281952_1st_ed_jacket_cover%29.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Invisible_Man\n",
+      "pages": 581,
+      "title": "Invisible Man",
+      "year": 1952
+    },
+    {
+      "id": 19,
+      "author": "Euripides",
+      "country": "Greece",
+      "price":520,
+      "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781625587428/medea-9781625587428_hr.jpg",
+      "language": "Greek",
+      "link": "https://en.wikipedia.org/wiki/Medea_(play)\n",
+      "pages": 104,
+      "title": "Medea",
+      "year": -431
+    },
+    {
+      "id": 20,
+      "author": "Peter Høeg",
+      "country": "Denmark",
+      "price":460,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1338718927i/129147.jpg",
+      "language": "Danish",
+      "link": "https://en.wikipedia.org/wiki/Miss_Smilla%27s_Feeling_for_Snow#Background",
+      "pages": 410,
+      "title": "Miss Smilla's Feeling for Snow",
+      "year": 1992
+    }
+  ]
